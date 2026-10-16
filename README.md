@@ -7,9 +7,9 @@ Coleção organizada de exercícios e estudos de PHP.
 
 ## Índice
 
-- [`Calculadora`](projects/Calculadora/) — [repositório original](https://github.com/dev-kauams/Calculadora)
-- [`escola_projeto`](projects/escola_projeto/) — [repositório original](https://github.com/dev-kauams/escola_projeto)
-- [`Juros-e-Conversor`](projects/Juros-e-Conversor/) — [repositório original](https://github.com/dev-kauams/Juros-e-Conversor)
+- [`calculadora`](projects/calculadora/) — origem: [`Calculadora`](https://github.com/dev-kauams/Calculadora)
+- [`projeto-escolar`](projects/projeto-escolar/) — origem: [`escola_projeto`](https://github.com/dev-kauams/escola_projeto)
+- [`juros-e-conversor`](projects/juros-e-conversor/) — origem: [`Juros-e-Conversor`](https://github.com/dev-kauams/Juros-e-Conversor)
 
 ## Como usar
 
